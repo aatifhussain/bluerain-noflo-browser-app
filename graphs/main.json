@@ -158,7 +158,7 @@
             }
         },
         {
-            "data": "Go Nawaz Go!",
+            "data": "Hello NoFlo!",
             "tgt": {
                 "process": "core/Kick_ey1nh",
                 "port": "data"
