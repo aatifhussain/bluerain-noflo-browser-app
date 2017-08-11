@@ -160,7 +160,7 @@
             }
         },
         {
-            "data": "Hello World!",
+            "data": "Go Nawaz Go!",
             "tgt": {
                 "process": "core/Kick_ey1nh",
                 "port": "data"
