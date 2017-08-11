@@ -1,1 +1,1 @@
-# bluerain-noflo-browser-app
+# Bluerain Noflo Browser App
