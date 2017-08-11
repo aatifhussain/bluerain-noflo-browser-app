@@ -4,7 +4,7 @@
         "name": "main",
         "environment": {
             "type": "noflo-browser",
-            "content": "<button id='button'>Go!</button>\n<p id='message'></p>"
+            "content": "<button id='button'>Hit me!</button>\n<p id='message'></p>"
         },
         "icon": ""
     },
