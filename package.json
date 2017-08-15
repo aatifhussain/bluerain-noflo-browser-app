@@ -19,7 +19,8 @@
     "noflo-core": "^0.4.0",
     "noflo-dom": "^0.1.1",
     "noflo-http": "^0.1.2",
-    "noflo-interaction": "^0.1.1"
+    "noflo-interaction": "^0.1.1",
+    "noflo-xpress": "^0.4.1"
   },
   "devDependencies": {
     "chai": "^4.0.0",
